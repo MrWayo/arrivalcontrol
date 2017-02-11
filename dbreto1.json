@@ -1,0 +1,175 @@
+{
+  "asistencia" : {
+    "Almight" : {
+      "entrada" : {
+        "hora" : 8,
+        "minuto" : 0
+      },
+      "llegada" : {
+        "hora" : 21,
+        "minuto" : 40
+      },
+      "mensaje" : "¡No te pases pues, es tarde!"
+    },
+    "Ohayo" : {
+      "entrada" : {
+        "hora" : 8,
+        "minuto" : 0
+      },
+      "llegada" : {
+        "hora" : 21,
+        "minuto" : 42
+      },
+      "mensaje" : "¡No te pases pues, es tarde!"
+    },
+    "Sapiens" : {
+      "entrada" : {
+        "hora" : 14,
+        "minuto" : 28
+      },
+      "llegada" : {
+        "hora" : 14,
+        "minuto" : 28
+      },
+      "mensaje" : "mensaje"
+    },
+    "Shrek" : {
+      "entrada" : {
+        "hora" : 8,
+        "minuto" : 0
+      },
+      "llegada" : {
+        "hora" : 21,
+        "minuto" : 40
+      },
+      "mensaje" : "¡No te pases pues, es tarde!"
+    },
+    "Timón y Pumba" : {
+      "entrada" : {
+        "hora" : 8,
+        "minuto" : 0
+      },
+      "llegada" : {
+        "hora" : 21,
+        "minuto" : 41
+      },
+      "mensaje" : "¡No te pases pues, es tarde!"
+    },
+    "Victor" : {
+      "entrada" : {
+        "hora" : 14,
+        "minuto" : 28
+      },
+      "llegada" : {
+        "hora" : 14,
+        "minuto" : 28
+      },
+      "mensaje" : "mensaje"
+    },
+    "Wayo" : {
+      "entrada" : {
+        "hora" : 8,
+        "minuto" : 0
+      },
+      "llegada" : {
+        "hora" : 14,
+        "minuto" : 28
+      },
+      "mensaje" : "mensaje"
+    }
+  },
+  "reloj" : {
+    "00" : {
+      "00" : {
+        "00" : {
+          "Carlos" : {
+            "destinatario" : "Angel",
+            "mensaje" : "Hola =)"
+          },
+          "Miguel" : {
+            "destinatario" : "Angel",
+            "mensaje" : "Ya llegaste"
+          }
+        }
+      }
+    },
+    "01" : {
+      "10" : {
+        "13" : {
+          "Juan" : {
+            "destinatario" : "Ximena",
+            "mensaje" : "¿Cual es tu segundo nombre?"
+          },
+          "Xoana" : {
+            "destinatario" : "GianCarlos",
+            "mensaje" : "¿Vienes seguido por aqui?"
+          }
+        }
+      }
+    },
+    "02" : {
+      "30" : {
+        "40" : {
+          "Camilo" : {
+            "destinatario" : "Juan Miguel",
+            "mensaje" : "¿Profesor tengo algunas preguntas?"
+          }
+        }
+      }
+    },
+    "10" : {
+      "53" : {
+        "54" : {
+          "Sapie s" : {
+            "detino" : "Giulia",
+            "mensaje" : "Hi!!"
+          }
+        }
+      }
+    },
+    "1407" : {
+      "09" : {
+        "detino" : "",
+        "mensaje" : " Como vas "
+      },
+      "18" : {
+        "Camino" : {
+          "detino" : "Hoka ",
+          "mensaje" : ""
+        }
+      },
+      "19" : {
+        "Camino" : {
+          "detino" : "Hoka ",
+          "mensaje" : "Jo"
+        }
+      },
+      "20" : {
+        "Camino" : {
+          "detino" : "Hoka ",
+          "mensaje" : "Jojlal"
+        }
+      },
+      "21" : {
+        "Camino" : {
+          "detino" : "Hoka ",
+          "mensaje" : "Jojlalal"
+        }
+      },
+      "23" : {
+        "Camino" : {
+          "detino" : "Hoka ",
+          "mensaje" : "Jojlalala"
+        }
+      }
+    },
+    "1443" : {
+      "47" : {
+        "Victor" : {
+          "detino" : "Eris",
+          "mensaje" : "¿Hola Eris, cómo te va?"
+        }
+      }
+    }
+  }
+}
